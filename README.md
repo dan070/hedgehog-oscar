@@ -15,3 +15,6 @@ I never meant it very seriously. I meant it as a kind of enjoyable intellectual 
 Isaiah Berlin
 
 https://www.internalpointers.com/post/cost-function-logistic-regression
+
+https://arxiv.org/pdf/1704.04289.pdf
+
