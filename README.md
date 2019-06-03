@@ -18,3 +18,7 @@ https://www.internalpointers.com/post/cost-function-logistic-regression
 
 https://arxiv.org/pdf/1704.04289.pdf
 
+https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+
+http://doingbayesiandataanalysis.blogspot.com/2014/08/how-to-use-mcmc-posterior-as-prior-for.html?m=1
+
