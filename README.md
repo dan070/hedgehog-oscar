@@ -22,3 +22,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
 
 http://doingbayesiandataanalysis.blogspot.com/2014/08/how-to-use-mcmc-posterior-as-prior-for.html?m=1
 
+https://link.medium.com/ZXR9Gd0JlX
+
