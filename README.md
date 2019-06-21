@@ -1,5 +1,6 @@
 # hedgehog-oscar
-Online ML inspired by Vorpal Rabbit
+
+- Online ML inspired by Vorpal Rabbit
 
 Logistic regression is one of the most loved ML tools, with good reason. This project honors this invention from the 1830s(!) with a Oscar Wilde-quote.
 
