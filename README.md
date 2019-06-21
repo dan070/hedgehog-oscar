@@ -1,10 +1,14 @@
 # hedgehog-oscar
 Online ML inspired by Vorpal Rabbit
 
+Logistic regression is one of the most loved ML tools, with good reason. This project honors this invention from the 1830s(!) with a Oscar Wilde-quote.
 
 > The world is divided into two classes, those who believe the incredible, and those who do the improbable.
 >
 > **Oscar Wilde**
+
+
+I will also keep it simple. Do one thing good.
 
 > A fox knows many things, but a hedgehog one important thing
 >
