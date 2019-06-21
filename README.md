@@ -2,7 +2,9 @@
 
 - Online ML inspired by Vorpal Rabbit
 
-Logistic regression is one of the most loved ML tools, with good reason. I believe a nice online stand-alone estimator will be useful and stand the test of time.
+I believe a nice, online, stand-alone estimator of logistic regression will come in handy and stand the test of time.
+
+Logistic regression is one of the most loved ML tools, with good reason.
 
 This project honors the logistic invention from the 1830s(!).
 
