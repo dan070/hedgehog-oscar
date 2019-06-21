@@ -38,6 +38,22 @@ Set learning rate manually
 Use one or two standard rate finders
 
 
+Get printout of parameters anytime
+•Get prediction, even with missing data
+Choose cutoff value, to go along with probability.
+Allow user to get prediction from old versions as well.
+Always have a median value prepared. We could also bootstrap missing values and average the resulting predictions.
+
+
+Logistic regression in first version
+Specify target variable, what values are considered target class.
+Allow dynamic addition of features, where you set as class or numeric.
+First iteration ; only numeric values. Then 1/0. Then string.
+Maybe treat all nonstring as numeric and all string as classes? 
+Any change or inconsistencies input data results in error.
+
+
+
 https://www.internalpointers.com/post/cost-function-logistic-regression
 
 https://arxiv.org/pdf/1704.04289.pdf
