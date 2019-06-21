@@ -52,6 +52,28 @@ First iteration ; only numeric values. Then 1/0. Then string.
 Maybe treat all nonstring as numeric and all string as classes? 
 Any change or inconsistencies input data results in error.
 
+Stop learning and estimate cutoff
+Allow user to give cost of missclassified targets
+Predict input data and compare to target, and build up a roc curve. From cost of missclass, choose optimal cutoff. Save cutoff continuously.
+Give ROC on demand. Show confusion matrix for best cutoff.
+
+Just stop learning (eg if feature drift)
+
+• Rollback to previous versions
+• Prediction from previous version
+Version handling of models, to allow rollback
+Eg when sufficiently converged. Or if drift screwed us up.
+Allow saving of models with a time stamp and name/comment.
+If prediction gets a version name, use that instead of current prediction.
+
+
+Allow user to specify online or batch 
+Use data as microbatch and online, what works best
+Being able to store training data and replay it both for training and for prediction.
+Allow user to set n=1 to n=quite high, for online or batch learning.
+
+
+
 
 
 https://www.internalpointers.com/post/cost-function-logistic-regression
