@@ -14,6 +14,17 @@ I never meant it very seriously. I meant it as a kind of enjoyable intellectual 
 
 Isaiah Berlin
 
+
+Anomaly detection of feature variables, drift
+Simple mean variance model. If enough points and average differs too much, it’s anomaly.
+Several kernels, to allow for more varied distribution.
+Detect distribution.
+Estimate covariance of pair variables, and test for significant change.
+Make baseline when 1000 points detected and no significant changes happen. Keep it to 4 significant digits. Estimate range from initial samples.
+User-set behaviour when anomaly, stop learning, send warning, carry on.
+
+
+
 https://www.internalpointers.com/post/cost-function-logistic-regression
 
 https://arxiv.org/pdf/1704.04289.pdf
