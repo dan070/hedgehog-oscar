@@ -2,19 +2,23 @@
 
 - Online ML inspired by Vorpal Rabbit
 
-Logistic regression is one of the most loved ML tools, with good reason. This project honors this invention from the 1830s(!) with a Oscar Wilde-quote.
+Logistic regression is one of the most loved ML tools, with good reason. I believe a nice online stand-alone estimator will be useful and stand the test of time.
+
+This project honors the logistic invention from the 1830s(!).
 
 > The world is divided into two classes, those who believe the incredible, and those who do the improbable.
 >
 > **Oscar Wilde**
 
 
-I will also keep it simple. Do one thing good.
+We can do one thing good, using one concept. It might not be optimal, but always straight to the point.
 
 > A fox knows many things, but a hedgehog one important thing
 >
 > **Old Greek proverb**
 
+
+Even simplifications, done with curiosity, will give insights into a problem. I hope that hedgehogs and foxes can both help me, even though this project is a hedgehog!
 
 > I never meant it very seriously. I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
 >
