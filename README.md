@@ -23,6 +23,19 @@ Estimate covariance of pair variables, and test for significant change.
 Make baseline when 1000 points detected and no significant changes happen. Keep it to 4 significant digits. Estimate range from initial samples.
 User-set behaviour when anomaly, stop learning, send warning, carry on.
 
+Automatic expansion of new factor variable.
+If added, a new variable is created and training starts.
+
+Detection of changed parameter values
+Simple change of 10%
+Tests of significance for change
+
+Detection of changed predictions for a random selection of training examples.
+Save examples and replay every 1000 obs, and compare prediction. Average pct change in prediction.
+
+Set learning rate automatically
+Set learning rate manually 
+Use one or two standard rate finders
 
 
 https://www.internalpointers.com/post/cost-function-logistic-regression
