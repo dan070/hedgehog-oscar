@@ -73,7 +73,16 @@ Being able to store training data and replay it both for training and for predic
 Allow user to set n=1 to n=quite high, for online or batch learning.
 
 
+Prediction must be lightning fast.
+Lookup of parameter.
+Adding up parameter.
+Using missing value parameter.
+Unlogit and apply cut off.
 
+Should try it in R first.
+Go is fast but I need to verify behaviour.
+How do I unit test the stuff?
+We are talking Webb rest api. Or other?
 
 
 https://www.internalpointers.com/post/cost-function-logistic-regression
