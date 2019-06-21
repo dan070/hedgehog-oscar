@@ -6,13 +6,14 @@ Online ML inspired by Vorpal Rabbit
 >
 > **Oscar Wilde**
 
-A fox knows many things, but a hedgehog one important thing
+> A fox knows many things, but a hedgehog one important thing
+>
+> **Old Greek proverb**
 
-Old Greek proverb
 
-I never meant it very seriously. I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
-
-Isaiah Berlin
+> I never meant it very seriously. I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
+>
+> **Isaiah Berlin**
 
 
 Anomaly detection of feature variables, drift
