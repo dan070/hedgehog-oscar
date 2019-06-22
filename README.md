@@ -2,29 +2,45 @@
 
 - Online ML inspired by Vorpal Rabbit
 
-I believe a nice, online, stand-alone estimator of logistic regression will come in handy and stand the test of time.
+A nice, online, stand-alone estimator of logistic regression.
 
-Logistic regression is one of the most loved ML tools, with good reason.
+Logistic regression (sort of invented 1830s) is one of the most used ML tools for classification, with good reason.
 
-This project honors the logistic invention from the 1830s(!).
 
 > The world is divided into two classes, those who believe the incredible, and those who do the improbable.
 >
 > **Oscar Wilde**
 
-
-We can do one thing good, using one concept. It might not be optimal, but always straight to the point.
+Stochastic gradient descent (with finesse) might not be optimal but
+we can try to do one thing good.
 
 > A fox knows many things, but a hedgehog one important thing
 >
 > **Old Greek proverb**
 
 
-Even simplifications, done with curiosity, will give insights into a problem. I hope that hedgehogs and foxes can both help me, even though this project is a hedgehog!
+Even simple models, done with curiosity, will give insights into a problem. I call on both hedgehogs and foxes to help me now and in the future.
 
-> I never meant it very seriously. I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
+> I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
 >
 > **Isaiah Berlin**
+
+Features (planned at least)
+
+- Logistic regression (with dynamic learning rate and regularization)
+
+- REST-apis for everything
+
+- Drift detection
+
+- Anomaly detection on inputs
+
+- Rollbacks and version handling of models
+
+- Online learning or batch
+
+- Stop-learning mode to work with haywire data
+
 
 
 Anomaly detection of feature variables, drift
