@@ -1,5 +1,4 @@
-# Hedgehog Oscar
-## Online ML inspired by Vorpal Rabbit
+# Hedgehog Oscar - Online ML inspired by Vorpal Rabbit
 
 *”A nice, online, stand-alone estimator of logistic regression”*
 
