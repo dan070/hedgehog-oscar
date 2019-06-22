@@ -4,12 +4,29 @@
 
 *A nice, online, stand-alone estimator of logistic regression*
 
+Features (planned, at least)
+
+- Logistic regression through-REST-api (with dynamic learning rate and regularization)
+
+- Anomaly detection and drift detection 
+
+- Model rollbacks and version handling
+
+- Online/batch learning and stop-learning-mode 
+
+
+
+## Background and inspirational quotes
+
+### Beloved logistic regression
 Logistic regression (sort of invented 1830s) is one of the most used ML tools for classification, with good reason.
 
 
 > The world is divided into two classes, those who believe the incredible, and those who do the improbable.
 >
 > **Oscar Wilde**
+
+### Less is more when implementing
 
 Stochastic gradient descent (with finesse) might not be optimal but
 we can try to do one thing good.
@@ -19,23 +36,14 @@ we can try to do one thing good.
 > **Old Greek proverb**
 
 
+### Be mindfully simple
+
 Even simple models (like log-reg), done with curiosity, will give insights into a problem. I call on both hedgehogs and foxes to help me now and in the future.
 
 > I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
 >
 > **Isaiah Berlin**
 
-Features (planned at least)
-
-- Logistic regression by REST-api (with dynamic learning rate and regularization)
-
-- Anomaly detection and drift detection 
-
-- Rollbacks and version handling of models
-
-- Online learning or batch
-
-- Stop-learning mode to work with haywire data
 
 
 
