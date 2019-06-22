@@ -4,13 +4,13 @@
 
 **Features (planned, at least)**
 
-- Logistic regression through-REST-api (with dynamic learning rate and regularization)
+- Logistic regression through-REST-api (with dynamic learning rate, online/batch and regularization)
 
 - Anomaly detection and drift detection 
 
-- Model rollbacks and version handling
+- Model rollbacks, version handling and stop-learning mode
 
-- Online/batch learning and stop-learning-mode 
+
 
 
 
