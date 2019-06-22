@@ -2,7 +2,7 @@
 
 - Online ML inspired by Vorpal Rabbit
 
-**A nice, online, stand-alone estimator of logistic regression**
+*A nice, online, stand-alone estimator of logistic regression*
 
 Logistic regression (sort of invented 1830s) is one of the most used ML tools for classification, with good reason.
 
