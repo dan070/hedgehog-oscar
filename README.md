@@ -1,10 +1,9 @@
-# hedgehog-oscar
+# Hedgehog Oscar
+## Online ML inspired by Vorpal Rabbit
 
-- Online ML inspired by Vorpal Rabbit
+*”A nice, online, stand-alone estimator of logistic regression”*
 
-*A nice, online, stand-alone estimator of logistic regression*
-
-Features (planned, at least)
+**Features (planned, at least)**
 
 - Logistic regression through-REST-api (with dynamic learning rate and regularization)
 
