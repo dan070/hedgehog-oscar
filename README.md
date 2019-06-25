@@ -43,7 +43,7 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 > **Isaiah Berlin**
 
 
-
+http://ruder.io/optimizing-gradient-descent/
 
 
 https://www.internalpointers.com/post/cost-function-logistic-regression
