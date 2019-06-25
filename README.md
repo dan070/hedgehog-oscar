@@ -43,6 +43,9 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 > **Isaiah Berlin**
 
 
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+
+
 http://ruder.io/optimizing-gradient-descent/
 
 
