@@ -43,6 +43,8 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 > **Isaiah Berlin**
 
 
+https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization
+
 https://towardsdatascience.com/understanding-the-scaling-of-l²-regularization-in-the-context-of-neural-networks-e3d25f8b50db
 
 
