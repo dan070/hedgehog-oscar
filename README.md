@@ -43,6 +43,9 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 > **Isaiah Berlin**
 
 
+https://towardsdatascience.com/understanding-the-scaling-of-l²-regularization-in-the-context-of-neural-networks-e3d25f8b50db
+
+
 https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
 
 
