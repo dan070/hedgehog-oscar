@@ -4,13 +4,13 @@
 
 **Features (planned, at least)**
 
-- Logistic regression through-REST-api (with dynamic learning rate, online/batch and regularization)
+- Logistic regression through-REST-api (with dynamic learning rate and regularization)
 
 - Anomaly detection and drift detection 
 
 - Model rollbacks, version handling and stop-learning mode
 
-
+- Classification and probability estimation by repeated testing
 
 
 
@@ -24,10 +24,10 @@ Logistic regression (sort of invented 1830s) is one of the most used ML tools fo
 >
 > **Oscar Wilde**
 
-### Less is more when implementing
+### Less is more
 
 Stochastic gradient descent (with finesse) might not be optimal but
-we can try to do one thing good.
+we can try to do one thing good. The hedgehog will be adaptive to parameter changes, as a consequence.
 
 > A fox knows many things, but a hedgehog one important thing
 >
@@ -38,7 +38,7 @@ we can try to do one thing good.
 
 Even simple models (like log-reg), done with curiosity, will give insights into a problem. I call on both hedgehogs and foxes to help me now and in the future.
 
-> I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something
+> I meant it as a kind of enjoyable intellectual game, but it was taken seriously. Every classification throws light on something.
 >
 > **Isaiah Berlin**
 
