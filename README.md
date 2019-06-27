@@ -75,3 +75,7 @@ https://github.com/jasoncapehart/go-sgd/blob/master/sgd.go
 
 outliers:
 https://www.kdnuggets.com/2019/06/overview-outlier-detection-methods-pyod.html
+
+
+instead of yaml... input data??
+https://github.com/toml-lang/toml/blob/master/README.md
