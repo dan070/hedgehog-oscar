@@ -72,3 +72,6 @@ http://doingbayesiandataanalysis.blogspot.com/2014/08/how-to-use-mcmc-posterior-
 https://link.medium.com/ZXR9Gd0JlX
 
 https://github.com/jasoncapehart/go-sgd/blob/master/sgd.go
+
+outliers:
+https://www.kdnuggets.com/2019/06/overview-outlier-detection-methods-pyod.html
