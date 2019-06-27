@@ -45,7 +45,7 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 
 https://link.medium.com/QyWDEMtAQX
 
-
+https://www.kdnuggets.com/2019/06/gradient-descent-algorithms-cheat-sheet.html
 
 https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization
 
