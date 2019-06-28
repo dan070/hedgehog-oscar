@@ -42,7 +42,7 @@ Even simple models (like log-reg), done with curiosity, will give insights into 
 >
 > **Isaiah Berlin**
 
-
+Adam original paper : https://arxiv.org/abs/1412.6980
 https://link.medium.com/QyWDEMtAQX
 
 https://www.kdnuggets.com/2019/06/gradient-descent-algorithms-cheat-sheet.html
