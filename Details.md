@@ -1,5 +1,5 @@
 here I’ll put more notes to self :)
-
+Using vscode and git push.
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cint_%7B0%7D%5E%7B%5Cpi%7D%20%5Csin%20x%20%5C%2C%20dx%20%3D%202&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\int_{0}^{\pi} \sin x \, dx = 2" width="125" height="49" />
 
